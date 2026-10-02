@@ -1,0 +1,18 @@
+# Maven / Java build output
+target/
+out/
+*.class
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
